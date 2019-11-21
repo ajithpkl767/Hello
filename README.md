@@ -1,3 +1,4 @@
 # Hello
-Sample
+Hi,
+
 Welcome to the new file
